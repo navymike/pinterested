@@ -1,24 +1,7 @@
-# README
+# One Month Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Pinterest-inspired tutorial using Ruby Rails and created by Mattan Griffel of [*One Month Rails*](http://onemonthrails.com).
 
-Things you may want to cover:
+I promise to follow better instructions, at least during the first run-through and not get overly excited and rush through areas that I think I already know. Patience, fool.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
